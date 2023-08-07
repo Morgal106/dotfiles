@@ -1,0 +1,55 @@
+theme = "gruvbox"
+
+[editor]
+line-number = "relative"
+mouse = true
+color-modes = true
+cursorline = true
+cursorcolumn = true
+true-color = true
+shell = ['nu', '-c']
+bufferline = "multiple"
+idle-timeout = 100
+
+[editor.indent-guides]
+render = true
+
+[editor.whitespace.render]
+newline = "none"
+space = "none"
+tab = "none"
+
+[editor.soft-wrap]
+enable = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "block"
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+left = ["mode", "spinner",  "file-name", "file-modification-indicator"]
+right = ["diagnostics", "version-control", "spacer", "selections", "position", "position-percentage", "file-encoding", "file-line-ending", "file-type"]
+separator = "│"
+mode.normal = "Normal Mode"
+mode.insert = "Insert Mode"
+mode.select = "Select Mode"
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+[keys.insert]
+"esc" = [":sh im-select.exe | save -f c:/users/zws_5/.ime-status | im-select 1033", "normal_mode"]
+
+[keys.normal]
+"i" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "insert_mode"]
+"a" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "append_mode"]
+"c" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "change_selection"]
+"I" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "insert_at_line_start"]
+"A" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "insert_at_line_end"]
+"o" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "open_below"]
+"O" = [":sh open ~/.ime-status | if ($in =~ '2052') {im-select 2052}", "open_above"]

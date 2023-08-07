@@ -1,0 +1,1317 @@
+ls
+lsd
+ls
+clear
+which
+rm
+which rm
+which ls
+which which.exe
+which gcc
+clear
+scoop search gcc
+clear
+nu -v
+nu -help
+nu --help
+echo
+echo $env:path
+echo $env.path
+echo $env.Path
+echo $env.RUSTUPHOME
+echo $env.RUSTUP_HOME
+clear
+exit
+nu
+esit
+exit
+ls
+cd code
+z code
+j code
+jump
+clear
+which cd
+clear
+ls
+clear
+config nu\
+config nu
+$nu.config-path
+vim C:\Users\ZWS_5\AppData\Roaming\nushell\config.nu
+clear
+vi
+ls
+vim C:\Users\ZWS_5\AppData\Roaming\nushell\config.nu
+clear
+ls
+clear
+pwhs
+pwsh
+clear
+$env.config
+enter
+cd
+which cd
+which wnter
+which enter
+clear
+$nu.config-path
+$nu.env-path
+enter AppData\Roaming\nushell\
+clear
+ls
+nvim env.nu
+vim config.nu
+vim env.nu
+vim config.nu
+vi C:\Users\ZWS_5\.cache\starship\init.nu
+vim env.nu
+vim config.nu
+clear
+nvim
+clear
+cd
+clear
+starship init nu
+nu -v
+shells
+clear
+eixt
+exit
+enter AppData\Roaming\nushell\
+shells
+cd ..
+shells
+cd nushell\
+kill shell 0
+kill
+kill -h
+enter
+shells
+enter AppData\Roaming\nushell\
+shells
+enter 0
+enter -h
+vim config.nu
+vi env.nu
+clear
+cd
+enter Pictures\
+shells 
+n
+shells 
+p
+n
+enter d:\Code\
+n
+shells 
+shuf.exe 
+clear
+shred.exe 
+rm
+rm -h
+mkdir 
+mkdir -h
+mkdir test
+rm -r test\
+cd
+shells 
+exit
+enter 
+enter
+shells 
+enter d:\Code\
+n
+exit
+clear
+enter d:\Code\
+shells 
+n
+exit
+ls
+clear
+shells 
+clear
+10*10
+clear
+enter d:\Code\
+shells 
+exit 0
+exit 1
+which eixt
+which exit
+where exit
+exit
+exit 1
+exit 0
+ls
+clear
+r
+clear
+do -h
+sys 
+sys.host
+sys -h
+(sys).host
+neovide.exe 
+neofetch.cmd 
+clear
+cd AppData\Roaming\nushell\
+vi env.nu
+vi config.nu
+$env.editor
+vi config.nu
+clear
+cd AppData\Roaming\nushell\
+vim config.nu
+nvim config.nu
+clear
+nvim
+clear
+vim env.nu
+starship init nu
+vim env.nu
+clear
+vim env.nu
+exit
+nu
+exit
+nu
+shells 
+exit
+ls
+clear
+ls | type == file
+ls
+^ls
+lsd
+""
+"hello"
+clear
+cd AppData\Roaming\nushell\
+vim env.nu
+vim config.nu
+enter
+vim
+nivm
+nvim
+clear
+ls | type == file
+ls | describe == file
+ls | describe
+ls | $dark_theme
+$dark_theme
+$nu.os-info
+$env
+ls | $in.type == file
+ls | $in.type
+cd AppData\Roaming\nushell\
+z
+j
+clear
+nvim
+clear
+config
+config nu
+config env
+$env.EDITOR = vim
+config env
+clear
+config nu
+config env
+clear
+config nev
+config env
+clear
+curl
+curl -h
+curl google.com
+clear
+config nu
+vim
+vi
+clear
+nvim
+clear
+vim
+clear
+code
+clear
+config nu
+config env
+clear
+nvim
+config env
+clear
+config env
+clear
+ls
+ls | where type = file
+clear
+config env
+clear
+source-env 
+source-env $env
+$env.config
+$env.config | get ls
+vim
+config env
+config nu
+config reset
+clear
+config nu
+vim $nu.config-path
+clear
+ls
+clear
+nvim $nu.config-path
+nvim $nu.env-path
+clear
+ls
+erd
+clear
+ls
+clear
+cd AppData\Roaming\nushell\
+ls
+cp oldconfig-2023-08-01-23-15-41.nu config.nu
+cp oldenv-2023-08-01-23-15-41.nu env.nu
+clear
+config env 
+source-env $nu.env-path
+source-env const $nu.env-path
+cd AppData\Roaming\nushell\
+source-env env.nu 
+ls
+clear
+help.exe 
+clip.exe 
+clip.exe -?
+clip.exe < "hello"
+ls
+ls | where type == file
+clip komorebi.json
+clear.exe 
+clear 
+where.exe clear
+scoop uninstall w64devkit
+where.exe clip
+clinfo.exe 
+clear
+gcc
+clear
+clang
+clear
+config env
+nvim
+nvim 
+nvim
+nvim --headless -h
+nvim -v
+$env.VIM
+$VIM
+$it
+$env.SystemDrive
+$env.SystemRoot
+clear
+nvim
+clear
+scoop install zoxide
+z
+zoxide.exe 
+zoxide.exe init nu
+zoxide.exe init nushell
+scoop install fzf
+fzf
+ls | fzf
+lsd | fzf
+scoop install mpv
+ls
+lsd -d
+ls -d
+ls -h
+lsd 
+cd Videos\
+ls
+mpv `2023-06-27 19-24-06.mkv`
+config env 
+config nu 
+nu -v
+nvim .zoxide.nu
+config env 
+vim .zoxide.nu
+nvim .zoxide.nu
+config env
+z
+ls *.db
+zoxide.exe import --from=z z-location.db
+z code
+'code' | str length 
+nvim .zoxide.nu
+config env
+z
+config env
+z
+z code
+config env
+config nu 
+ls .zoxide.nu
+rm .zoxide.nu
+pwsh
+clear
+z
+z code
+clear
+config nu
+config env
+clear
+vim
+clear
+config env
+config nu
+ls
+clear
+vim
+config env
+config nu
+zoxide init nu
+zoxide init nushell
+scoop info vim
+ex
+rvim
+evim
+xxd
+clear
+ls
+clear
+erd
+clear
+oh-my-posh
+oh-my-posh.exe init nu
+oh-my-posh.exe init nu --help
+$env.SystemDrive
+oh-my-posh.exe init nu
+source .oh-my-posh.nu
+clear
+ls
+clear
+config env
+config nu
+source .oh-my-posh.nu
+config nu
+cd AppData\Local\clink\
+ls
+nvim oh-my-posh.lua
+config env
+config nu
+config env
+clear
+nvim
+vim
+zoxide init nushell
+config env 
+config nu 
+config nu
+config env 
+zoxide init nushell
+config nu 
+cd AppData\Roaming\nushell\
+ls
+vim env.nu
+vim config.nu
+config nu
+config env 
+z
+z code
+z
+z supermap
+z supe `715\`
+z
+z supe `715\`
+z
+clear
+config env 
+ls
+clear
+z sup
+zs
+z s
+z
+z su
+clear
+z -h
+z mao
+z m
+z map
+fzf
+clear
+zi zu
+zi su
+z is
+zi s
+clear
+vim
+$env.HOME
+$HOME
+vim _vimrc
+vim
+clear
+vm
+vi
+clear
+config env 
+ls
+clear
+vim
+config env 
+zi sup
+ls
+cd 715\TFLY\
+ls
+z
+z sup
+z tfl
+clear
+nvim index.html
+clear
+nvim
+vim
+exit
+d:
+cd Program_Files\
+ls
+ls DiskGenius\
+cd DiskGenius\
+ls
+.\DiskGenius.exe
+clear
+nvim
+clear
+ls
+clear
+nvim .wezterm.lua
+ls
+nvim .wezterm.lua
+wezterm.exe 
+nvim .wezterm.lua
+ls .cache\nu_scripts\
+z 
+zi 
+ls
+clear
+ls
+ls | where type == dir
+vim
+nvim
+vim
+clear
+config env
+clear
+fy
+fy reform
+clear
+config env
+ls
+clear
+config env
+ls
+clear
+config nu 
+config env
+config nu 
+ls | where type == dir
+ls | where type == dir && type != hidden
+ls | where type == dir and type != hidden
+ls | where type == dir and name != ".*"
+ls .*
+zi sup
+ps edge
+ps "edge"
+ps -h
+ps | where name ~= edge
+ps -h
+ps | where name ~= 'edg'
+ps | where name =~ 'edg'
+vim
+clear
+scoop install pueue
+pueue task add wezterm
+pueue --task add wezterm
+pueue.exe -h
+pueue wezterm
+pueue add wezterm
+pueued -h
+pueue add wezterm
+pueue -h
+pueue status
+clear
+pueue kill wezterm
+pueue kill -h
+pueue kill -a
+clear
+code
+edge
+git config 
+git config edit
+git config --system -l
+git config --global -l
+z sup
+git status
+clear
+config nu 
+ls
+h
+history session 
+history 
+http get "http://baidu.com"
+http get "http://www.baidu.com"
+z
+clear
+z sup
+gstat
+date now
+date humanize 
+ls
+config nu 
+config env 
+clear
+exit
+$env.CARGO_HOME
+$env.APPDATA
+$env.ENV_CONVERSIONS
+$env.ENV_CONVERSIONS | get path
+$env.ENV_CONVERSIONS | get path | get to_string
+cd $env.APPDATA
+cd nushell\
+ls
+tree
+c:
+scoop install nvm
+nvm
+nvm current
+nvm on
+nvm list
+node -v
+scoop info node
+scoop info nodejs
+scoop list
+cd
+ls np
+ls .npmrc
+cp .npmrc .npmrc-bak
+ls .npmrc-bak
+cd $env.APPDATA
+rm -h
+cd ..\Local\
+rm -rf npm-cache\
+cd
+nvm list
+nvm install latest
+nvm debug
+nvm
+nvm arch
+cd \
+ls
+cd
+cd scoop\apps\nvm\
+ls
+cd 1.1.11\
+ls
+nvm
+nvim settings.txt
+nvim
+nvm
+nvm arch
+scoop info nvm
+nvm
+nvm arch
+nvm list
+nvm install latest
+nvm use 20.5.0
+npm -v
+node -v
+npm i -g yarn
+nvm 
+nvm list
+where node
+where node.exe 
+which node
+which npm
+nvm install 16.20.0
+nvm use 16.20.0
+node -v
+which npm
+nvm lsit
+nvm list
+clear
+nvm install lts
+nvm use 18.17.0
+npm i -g yarn
+npm config
+npm config list
+npm config ls -l
+npm config edit
+nvim .npmrc-bak
+mv .npmrc-bak .npmrc
+mv .npmrc-bak .npmrc -f
+npm i yarn
+npm i fanyi
+fzf
+zi 
+cd npm-cache\
+ls
+cd _logs\
+ls
+nvim `2023-08-05T08_58_03_228Z-debug-0.log`
+cd
+clear
+nvm
+nvm root
+nvm root | cd
+nvm root | {|$path| cd $path}
+cd  C:\Users\ZWS_5\scoop\persist\nvm\nodejs
+ls
+ls v16.20.0\
+ls v18.17.0\
+clear
+cd
+nvm current
+npm config edit
+nvim
+npm i yarn
+yarn
+npm 
+ls
+ls node_modules\
+rm node_modules\ -rf
+rm package-lock.json
+rm package.json
+npm i -g yarn
+yarn
+ls
+rm yarn.lock
+rm node_modules\
+rm node_modules\ -rf
+ls
+npm i -g fanyi
+npm 
+clear
+nvm use 16.20.0
+npm config edit
+nvim 
+yarn
+fd
+bfs
+dust
+du 
+clear
+nvm 
+nvm npm_mirror https://npm.taobao.org/mirrors/node/
+npm i -g yarn
+yarn -h
+npm i -g fanyi
+npm config get proxy
+npm config set proxy
+npm config set proxy null
+npm i -g fanyi
+$env.HTTPS_PROXY = ""
+$env.HTTP_PROXY = ""
+npm i -g fanyi
+fy
+fy reform
+clear
+ls
+clear
+nvm v
+nvm ls
+clear
+yarn -h
+clear
+pip
+which pip
+clear
+python -v
+clear
+ipython
+clear
+control.exe 
+scoop install pyenv
+pyenv install -l
+clear
+pyenv -h
+pyenv --help
+pyenv 
+pyenv help
+pyenv version
+pyenv versions
+pyenv install -l | rg 3.11
+pyenv global 3.11
+scoop uninstall python
+control.exe 
+pyenv install lastest
+pyenv install --list
+pyenv install 3.10.5
+pyenv install 3.11.0b4
+pyenv install -l | rg 3.1
+sudo pyenv install 3.10.
+sudo pyenv install 3.10.5
+sudo
+which sudo
+sudo pyenv install 3.10.5
+cd AppData\Local\Programs\
+ls Python\
+rm -rf Python\
+pyenv install 3.11.0b4
+sudo pyenv install 3.11.0b4
+pyenv update
+pyenv install 3.11.0b4
+scoop uninstall pyenv
+scoop install python
+yp
+pip
+pip install ipython
+ipy
+ipython
+clear
+py
+clear
+ls
+clear
+config nu 
+ls
+clear
+zi nvim
+ls
+rm tree-sitter-markdown\ -rf
+rm tree-sitter-markdown_inline\ -rf
+clear
+ls
+nvim 
+clear
+nvim
+z nvim
+cd ..\nvim\
+ls
+z nvim
+ls
+cd lazy\
+ls
+z tre
+cd nvim-treesitter\
+l
+ls
+cd queries\
+ls
+cd nu
+ls 
+ls zig
+mkdir nu<\n>http get "https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm" | save nu
+mkdir nu|http get "https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm" | save nu
+mkdir nu
+ls
+ls nu
+http get "https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm" | save nu
+http get "https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm" | save "nu"
+http get "http://www.google.com"
+$env.HTTP_PROXY
+config env 
+http get "http://www.google.com"
+http get "baidu.com"
+http get "http://baidu.com"
+clear
+ping
+which ping
+ping google.com
+which curk
+which curl
+curl https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm
+zi nu
+zi nivm
+nvim
+zi nvim
+cd queries\nu\
+zi nu
+ls
+curl https://github.com/nushell/tree-sitter-nu/blob/main/queries/highlights.scm | save hightlights.scm
+ls
+git status
+cd
+config env 
+z nu
+zi nu
+nvim hightlights.scm
+rm hightlights.scm
+clear
+nvim
+cd ..
+ls
+ls nu
+cd ..
+ls
+ls parser\
+ls parser-info\
+cd parser-info\
+ls
+nvim nu.revision
+cd ..
+ls
+nvim README.md
+clear
+cd queries\nu\
+touch highlights.scm
+nvim highlights.scm
+clear
+config env 
+clear
+cd
+clear
+cl
+cal 
+cal -h
+cal -yqm
+cal -yqm --full-year 
+cal -yqm --full-year 2032
+cal -yqm --full-year 2023
+clear
+gcc
+scoop install helix
+hx
+clear
+z map
+z tf
+hx index.html
+config env
+config nu
+hx
+hx -h
+hx -c
+hx
+config nu
+hx
+config nu
+z sup
+z tf
+hx index.html
+npm install -g typescript-language-server typescript
+npm config get proxy
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""<\n>npm install -g typescript-language-server typescript<\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""<\n>npm install -g vscode-html-language-server<\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""<\n>npm install -g vscode-languageserver<\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+hx index.html
+typescript-language-server.cmd 
+typescript-language-server.cmd  --stdio
+npm ls
+npm ls -g
+h
+history 
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""<\n>npm install -g vscode-langservers-extracted<\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+vscode-css-language-server.cmd 
+clear
+hx index.html
+ls
+clear
+hx index.html
+nu -h
+hx 
+clear
+hx
+vim
+hx
+ps | where name =~ 'helix'
+ps | where name =~ 'hx'
+ps | where name =~ 'vim'
+ps | where name =~ 'hx'
+hx
+clear
+hx index.html
+hx.exe index.html
+history session 
+history 
+history | get 907
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""                                             <\n>npm install -g live-server                                              <\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+live-server.cmd 
+z bin
+.\startup.bat
+hx index.html
+clear
+z pro
+cd SuperMap_LicenseCenter_11.22.4.26\
+ls
+`.\SuperMap.LicenseCenter(for .NET 4.0).exe`
+z bin
+.\shutdown.bat
+.\startup.bat
+z sup
+z tf
+hx index.html
+pueue add hx
+pueue.exe ls
+pueue.exe -l
+pueue.exe list
+pueue.exe -h
+pueue.exe status
+pueue.exe enpueue 1
+pueue.exe --  enpueue 1
+pueue.exe kill -a
+hx index.html
+pueue.exe add -server
+pueue.exe add live-server
+pueue.exe status
+git status
+pueue.exe enpueue 1
+pueue.exe enpueue --help
+pueue.exe --help
+query.exe reset
+pueue.exe reset
+pueue.exe status
+clear
+pueued -d<\n>pueue add live-server <\n>pueue start
+pueue
+pueue.exe reset
+clear
+ls
+clear
+ps | where name =~ 'pueue'
+kill 17176
+kill 17176 -F
+kill 17176 /F
+kill /F 17176 
+kill -h
+kill -f 17176 
+clear
+pueue.exe 
+clear
+z bin 
+.\shutdown.bat
+z code 
+cd Python\
+ls
+cd autoSchoolNet\
+ls
+nvim login.pyw
+hx login.pyw
+pip install socket
+pip install request
+pip install socket
+ping baidu.com
+pip install sockets
+pip install requests
+clear
+hx --health
+scoop install clangd
+clangd
+clear
+hx
+hx --health | rg toml
+history
+history | get 907
+history | get 907.command
+$env.HTTP_PROXY = "" | $env.HTTPS_PROXY = ""<\n>npm install -g @taplo/cli<\n>$env.HTTP_PROXY = "http://127.0.0.1:20172" | $env.HTTPS_PROXY = "http://127.0.0.1:20172"
+taplo
+clear
+hx --health | rg toml
+clear
+hx --health | rg c
+hx --health | rg python
+pip install python-language-server
+hx --health | rg python
+pylsp
+pip --help
+pip uninstall python-language-server
+pip install python-lsp-server
+config nu
+hx --health | rg python
+clear
+hx --health | rg nu
+hx --health | rg ocaml
+hx --health | rg haskell
+hx --health
+fy indent
+hx 
+hx .ime-status
+open .ime-status
+hx 
+hx
+open .ime-status
+open .ime-status | str contains '1033' | {|pre| if (not $pre) {im-select 2052}}
+open .ime-status | str contains '1033'
+open .ime-status | {|pre| if ($pre =~ 2052) {im-select 2052}}
+open .ime-status | {|pre| if ($pre =~ 1033) {im-select 2052}}
+open .ime-status | {|pre| if ($pre =~ '1033') {im-select 2052}}
+im-select.exe |$env.ime
+im-select.exe | $env.IME
+im-select.exe | let ime
+$env.ime = (im-select.exe )
+$env.ime
+hx
+$env.ime == 1033
+$env.ime == '1033'
+hx
+clear
+exit
+scoop info gimp
+scoop 0ad gimp
+scoop info 0ad
+scoop info qq
+qq
+z
+clear
+rime-install
+$env.APPDATA
+cd $env.APPDATA
+cd Rime\
+ls
+mv d:\Downloads\Edge\double_pinyin_flypy.schema.yaml ./double_pinyin_flypy.schema.yaml
+ls
+cp d:\Downloads\Edge\double_pinyin.custom.yaml .\double_pinyin_flypy.custom.yaml
+git clone https://github.com/rime-aca/dictionaries.git
+ls
+rm double_pinyin_flypy.custom.yaml
+ls dictionaries\
+cp dictionaries\luna_pinyin.dict\* ./
+ls
+mv double_pinyin.custom.yaml double_pinyin_flypy.custom.yaml
+ls
+ls dictionaries\luna_pinyin.dict\
+clear
+ls
+hx weasel.custom.yaml
+im-select.exe 
+im-select.exe  2052
+im-select.exe 
+im-select.exe  2052
+clear
+z rim
+hx default.custom.yaml
+$nu_cmd
+open $nu_cmd
+open $nu_cmd as cmd
+cmd /c
+cmd /?
+clear
+nu -h
+hx
+cmd /c @(type c:\\users\\zws_5\\.ime-status | find "2052" >nul) && im-select 2052
+cmd /c '@(type c:\\users\\zws_5\\.ime-status | find "2052" >nul) && im-select 2052'
+cmd /c '@(type %USERPROFILE%/.ime-status | find "2052" >nul) && im-select 2052'
+cmd /c '@(type %USERPROFILE%\\.ime-status | find "2052" >nul) && im-select 2052'
+cmd /c 'type %USERPROFILE%/.ime-status'
+cmd /c 'type %USERPROFILE%\\.ime-status'
+cmd /c 'type %USERPROFILE%\\.ime-status | find "2052" > nul'
+cmd /c 'type %USERPROFILE%\\.ime-status | find "2052"'
+cmd /c 'echo 2052 | find "2052"'
+cmd /c 'echo 2052 | findstr "2052"'
+cmd /c '@(type %USERPROFILE%\\.ime-status | findstr "2052" >nul) && im-select 2052'
+open .ime-status
+cmd /c '@(type %USERPROFILE%\\.ime-status | findstr "2052" >nul) && im-select 2052'
+cmd /c 'type %USERPROFILE%\\.ime-status | findstr "2052" > nul'
+cmd /c 'type %USERPROFILE%\\.ime-status | findstr "252" > nul'
+open .ime-status
+cmd /c 'type %USERPROFILE%\\.ime-status | findstr "2052" > nul'
+cmd /c '@(type %USERPROFILE%\\.ime-status | findstr "2052" >nul) && im-select 2052'
+cmd /c '@(type %USERPROFILE%\\.ime-status | findstr "2052" >nul) && im-select 2052 & echo success'
+open .ime-status
+cmd /c ' type .ime-status | findstr "2052" > nul && (im-select 2052 & echo success)'
+cmd /c 'echo success'
+open .ime-status
+cmd /c ' type .ime-status | findstr "2052" > nul && (im-select 2052 & echo success)'
+cmd ' type .ime-status | findstr "2052" > nul && (im-select 2052 & echo success)'
+cmd /c ' type .ime-status | findstr "2052" > nul && im-select 2052 & echo success'
+cmd /c 'type 1'
+cmd /c 'type .ime-status | findstr "2052" > nul && im-select 2052 & echo success'
+cmd /c 'type .ime-status | findstr "2052" > nul && im-select 2052'
+open .ime-status | {|pre| if ($pre =~ '1033') {im-select 2052}}
+open .ime-status | |pre| if ($pre =~ '1033') {im-select 2052}
+open .ime-status | if ($in =~ '1033') {im-select 2052}
+open .ime-status | if ($in =~ '2052') {im-select 2052}
+open $env.USERPROFILE/.ime-status
+open $env.USERPROFILE
+$env.USERPROFILE
+open c:\Users\ZWS_5\.ime-status
+open ~\.ime-status
+hx
+clear
+ls | sort-by size
+hx
+hx 
+z cb
+ls
+hx c-8.c
+clear
+z sup
+z tf
+hx index.html
+git status
+git commit -a "modified index.html"
+clear
+hx index.html
+git status
+gii add .
+git add .
+git status
+git commit  "modified index.html"
+git status
+git commit
+git status
+clear
+hx index.html
+git config --global -l
+git config --edit
+git config --global --edit
+clear
+hx
+z sup
+cd
+z tf
+hx index.html
+clear
+hx
+clear
+cd scoop\apps\helix\
+cd ..\..\persist\helix\
+ls
+open config.toml
+open config.toml | get editor
+cd
+clear
+scoop install rust-analyzer
+rust-analyzer.exe 
+hx --health rust
+hx --health toml
+hx --health html
+cler
+clear
+z rust
+ls
+cargo new
+cargo new test
+cargo new r1111
+clear
+cd r1111\
+ls
+hx src\main.rs
+clear
+rust-analyzer.exe 
+rust-analyzer.exe  -h
+rust-analyzer.exe  --help
+clear
+rustup
+rustup check
+rustup update
+rust-analyzer.exe  --help
+rust-analyzer.exe
+scoop uninstall rust-analyzer
+rustup component add rust-analyzer
+rust-analyzer.exe
+z r1
+hx src\main.rs
+clear
+cd ..
+rm -rf r1111\
+clear
+ls
+hx
+clear
+cd flypy\
+hx src\main.rs
+clear
+clea
+clear
+hx
+exit
+alacritty
+clear
+scoop install alacritty
+alacritty
+hx 
+fd alacritty
+ls .*
+cd
+ls .*
+hx .wezterm.lua
+hx --health lua
+scoop install lua-language-server
+hx --health lua
+hx .wezterm.lua
+z nvim
+ls
+hx
+clear
+cd
+clear
+hx
+z sup
+cd 
+z tf
+hx index.html
+clear
+hx .wezterm.lua
+exit
+hx .wezterm.lua
+exit
+clear
+exit
+hx .wezterm.lua
+clear
+shutdown.exe -h
+shutdown.exe -i 
+shutdown.exe -s
+hx -h
+hx --health haskel
+hx --health haskell
+clear
+wsl
+wsl -h
+z pr
+ls eps*
+ls 
+rmdir
+rm rime
+rm -rf SAK_v0.7.14_64bit\
+clear
+fy brand
+fy branding
+exit
+config nu
+config env
+hx 
+hx
+hx .wezterm.lua
+ls
+clear
+wezterm.exe 
+ls
+clear
+z loc
+cd ..\Roaming\alacritty\
+ls
+hx alacritty.yml
+clear
+mkdir dotfiles
+cd dotfiles\
+echo "# dotfiles" >> README.md<\n>git init<\n>git add README.md<\n>git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin https://github.com/Morgal106/dotfiles.git<\n>git push -u origin main
+ls
+"#dot files" | save README.md
+cp ..\scoop\persist\helix\config.toml ./helix
+ls
+clear
+mkdir helix
+ls
+mkdir helix-editor
+mv helix helix-editor\
+ls
+mkdir nvim
+cp ..\AppData\Local\nvim\ nvim\
+cp ..\AppData\Local\nvim\* nvim\
+cp ../* helix-editor\
+cp
+cp -h
+cp ..\AppData\Local\nvim\ nvim\ -r -v
+ls
+ls nvim\
+ls nvim\nvim\
+clear
+scoop list
+dark
+clear
